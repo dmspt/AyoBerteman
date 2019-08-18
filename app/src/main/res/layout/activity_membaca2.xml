@@ -11,8 +11,7 @@
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="120dp"
-        android:orientation="horizontal"
-        android:background="@color/transparanWhite">
+        android:orientation="horizontal">
 
         <RelativeLayout
             android:layout_width="wrap_content"
@@ -61,7 +60,7 @@
                     android:layout_height="wrap_content"
                     android:layout_gravity="center"
                     android:text="Lomba Tenis Meja Cilik"
-                    android:textColor="@color/colorRed"
+                    android:textColor="@color/colorBlueYoung"
                     android:textSize="20sp"
                     android:textStyle="bold" />
 
@@ -71,7 +70,7 @@
                     android:layout_marginLeft="@dimen/padding8"
                     android:gravity="fill_horizontal"
                     android:text="@string/p3"
-                    android:textColor="@color/colorBlack"
+                    android:textColor="@color/colorWhite"
                     android:textSize="16sp" />
 
                 <TextView
@@ -80,7 +79,7 @@
                     android:layout_marginLeft="@dimen/padding8"
                     android:gravity="fill_horizontal"
                     android:text="@string/p4"
-                    android:textColor="@color/colorBlack"
+                    android:textColor="@color/colorWhite"
                     android:textSize="16sp" />
             </LinearLayout>
         </ScrollView>

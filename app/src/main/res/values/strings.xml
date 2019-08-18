@@ -4,9 +4,9 @@
     <string name="petunjuk">1.\t Uji Pemahaman ini terdiri atas 10 soal pilihan ganda dengan KKM 70.\n  2.\t Klik tombol pilihan untuk menjawabnya.\n  3.\t Kemudian klik tombol mulai untuk mengerjakan.</string>
     <string name="title_activity_info">InfoActivity</string>
     <string name="daftarPustaka">Taufina. 2017. Bermain di Lingkunganku : Untuk SD/MI Kelas II. BSE Tematik Terpadu Kurikulum 2013 Edisi Revisi 2017.</string>
-    <string name="kurikukum">Kurikukum\t : 2013</string>
-    <string name="kelas">Kelas\t\t\t\t\t\t\t\t\t : II</string>
-    <string name="jenjang">Jenjang\t\t\t\t\t : SD/MI</string>
+    <string name="kurikukum">Kurikukum\t\t\t: 2013</string>
+    <string name="kelas">Kelas\t\t\t\t\t\t : II</string>
+    <string name="jenjang">Jenjang\t\t\t\t\t: SD/MI</string>
     <string name="KD">Kompetensi Dasar dirumuskan untuk mencapai Kompetensi Inti. Rumusan Kompetensi Dasar dikembangkan dengan memperhatikan karakteristik dan kemampuan peserta didik, dan kekhasan masing - masing mata pelajaran. Kompetensi Dasar meliputi empat kelompok sesuai dengan pengelompokan Kompetensi Inti sebagai berikut :</string>
     <string name="KD1">1. Kelompok 1 : kelompok Kompetensi Dasar sikap spiritual dalam rangka menjabarkan KI1;</string>
     <string name="KD2">2. Kelompok 2 : kelompok Kompetensi Dasar sikap sosial dalam rangka menjabarkan KI2;</string>
@@ -19,5 +19,6 @@
     <string name="p5">Beni gemar bermain sepak bola.  Satu tim sepak bola terdiri atas 11 orang pemain inti dan beberapa pemain cadangan.  Sepak bola bertujuan untuk mencetak gol sebanyak-banyaknya dengan menendang bola ke gawang lawan.  Sepak bola dimainkan di lapangan rumput yang berbentuk persegi panjang.</string>
     <string name="p6">Hanya penjaga gawang saja yang berhak menyentuh bola dengan tangan di dalam daerah gawangnya.  Sepuluh pemain lainnya diizinkan menggunakan seluruh tubuhnya selain tangan.  Tim yang mencetak gol paling banyak pada akhir pertandingan adalah pemenangnya.  Jika hingga waktu berakhir skornya masih imbang, dapat dilakukan undian, perpanjangan waktu, atau adu penalti.  Wasit menggunakan peluit untuk memulai permainan, pelanggaran, dan akhir permainan.</string>
     <string name="balonku">Balonku ada lima.\nRupa-rupa warnanya.\nHijau, kuning, kelabu.\nMerah muda dan biru.\nMeletus balon hijau, dor!\nHatiku sangat kacau.\nBalonku tinggal empat.\nKupegang erat-erat.</string>
+
 
 </resources>

@@ -24,6 +24,7 @@
                 android:text="BANTUAN"
                 android:textSize="40sp"
                 android:textStyle="bold"
+                android:typeface="serif"
                 android:textColor="@color/colorWhite"
                 android:layout_marginLeft="@dimen/padding16"/>
 

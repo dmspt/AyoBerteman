@@ -23,6 +23,7 @@
                 android:layout_height="wrap_content"
                 android:text="EVALUASI"
                 android:textSize="40sp"
+                android:typeface="serif"
                 android:textStyle="bold"
                 android:textColor="@color/colorWhite"
                 android:layout_marginLeft="@dimen/padding16"/>
@@ -55,14 +56,14 @@
                 android:layout_height="wrap_content"
                 android:text="@string/instruksi"
                 android:textSize="20sp"
-                android:textColor="@color/colorBlack"
+                android:textColor="@color/colorWhite"
                 android:textStyle="bold" />
 
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:textSize="20sp"
-                android:textColor="@color/colorBlack"
+                android:textColor="@color/colorWhite"
                 android:textStyle="normal"
                 android:layout_gravity="center_vertical|end"
                 android:text="@string/petunjuk" />

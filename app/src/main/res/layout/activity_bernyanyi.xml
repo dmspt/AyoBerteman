@@ -11,7 +11,6 @@
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="120dp"
-        android:background="@color/transparanWhite"
         android:orientation="horizontal">
 
         <RelativeLayout
@@ -59,7 +58,7 @@
                 android:layout_height="wrap_content"
                 android:layout_gravity="center"
                 android:text="Balonku"
-                android:textColor="@color/colorRed"
+                android:textColor="@color/colorBlueYoung"
                 android:textSize="22sp"
                 android:textStyle="bold" />
 
@@ -69,7 +68,7 @@
                 android:layout_gravity="right"
                 android:gravity="fill_horizontal"
                 android:text="Pencipta : AT Mahmud"
-                android:textColor="@color/colorBlack"
+                android:textColor="@color/colorWhite"
                 android:textSize="14sp" />
 
             <TextView
@@ -78,7 +77,7 @@
                 android:layout_marginLeft="@dimen/padding8"
                 android:gravity="center_horizontal"
                 android:text="@string/balonku"
-                android:textColor="@color/colorBlack"
+                android:textColor="@color/colorWhite"
                 android:textSize="16sp" />
         </LinearLayout>
 

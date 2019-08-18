@@ -29,7 +29,7 @@
                 android:layout_height="wrap_content"
                 android:id="@+id/hasil"
                 android:text="HASIL : "
-                android:textColor="@color/colorBlack"
+                android:textColor="@color/colorWhite"
                 android:textSize="20sp"
                 android:textStyle="normal|bold"/>
             <TextView
@@ -39,7 +39,7 @@
                 android:id="@+id/nilai"
                 android:text="NILAI"
                 android:textSize="60sp"
-                android:textColor="@color/colorBlack"
+                android:textColor="@color/colorWhite"
                 android:textStyle="normal|bold"/>
 
             <LinearLayout

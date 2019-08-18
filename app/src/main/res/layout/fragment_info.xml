@@ -29,7 +29,7 @@
                     android:layout_marginTop="@dimen/padding4"
                     android:gravity="center"
                     android:text="Pengembang"
-                    android:textColor="@color/colorBlack"
+                    android:textColor="@color/colorWhite"
                     android:textSize="20sp"
                     android:textStyle="bold" />
 
@@ -61,24 +61,6 @@
                 android:background="@color/transparanWhite"
                 android:orientation="vertical">
 
-                <TextView
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:layout_gravity="center_horizontal"
-                    android:layout_marginTop="@dimen/padding8"
-                    android:text="Adam Septa Alghifari"
-                    android:textColor="@color/colorBlack"
-                    android:textSize="20sp"
-                    android:textStyle="normal" />
-
-                <TextView
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:layout_gravity="center_horizontal"
-                    android:text="IG @dmspt__"
-                    android:textColor="@color/colorBlack"
-                    android:textSize="20sp"
-                    android:textStyle="normal" />
 
                 <TextView
                     android:layout_width="wrap_content"
@@ -86,7 +68,7 @@
                     android:layout_gravity="center_horizontal"
                     android:layout_marginTop="@dimen/padding8"
                     android:text="Duwi Lufita Marfiana"
-                    android:textColor="@color/colorBlack"
+                    android:textColor="@color/colorWhite"
                     android:textSize="20sp"
                     android:textStyle="normal" />
 
@@ -95,7 +77,26 @@
                     android:layout_height="wrap_content"
                     android:layout_gravity="center_horizontal"
                     android:text="IG @lufita_m"
-                    android:textColor="@color/colorBlack"
+                    android:textColor="@color/colorWhite"
+                    android:textSize="20sp"
+                    android:textStyle="normal" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_marginTop="@dimen/padding8"
+                    android:text="Adam Septa Alghifari"
+                    android:textColor="@color/colorWhite"
+                    android:textSize="20sp"
+                    android:textStyle="normal" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal"
+                    android:text="IG @dmspt__"
+                    android:textColor="@color/colorWhite"
                     android:textSize="20sp"
                     android:textStyle="normal" />
 
@@ -105,7 +106,7 @@
                     android:layout_gravity="center"
                     android:layout_marginTop="30dp"
                     android:text="Daftar Pustaka"
-                    android:textColor="@color/colorBlack"
+                    android:textColor="@color/colorWhite"
                     android:textSize="20sp"
                     android:textStyle="bold" />
 
@@ -122,7 +123,7 @@
                     android:layout_margin="@dimen/padding8"
                     android:layout_marginTop="@dimen/padding8"
                     android:text="@string/daftarPustaka"
-                    android:textColor="@color/colorBlack"
+                    android:textColor="@color/colorWhite"
                     android:textSize="20sp"
                     android:textStyle="normal" />
 
@@ -132,10 +133,16 @@
                     android:layout_gravity="center"
                     android:layout_margin="@dimen/padding8"
                     android:layout_marginTop="@dimen/padding8"
-                    android:text="Backsound : Youtube"
-                    android:textColor="@color/colorBlack"
-                    android:textSize="20sp"
+                    android:text="Backsound : ''Earth'' Lil Dicky, You Tube"
+                    android:textColor="@color/colorWhite"
+                    android:textSize="18sp"
                     android:textStyle="normal" />
+
+                <ImageView
+                    android:layout_width="250dp"
+                    android:layout_height="70dp"
+                    android:src="@drawable/rumah_belajar"
+                    android:layout_gravity="center"/>
             </LinearLayout>
         </ScrollView>
 

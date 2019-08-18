@@ -36,7 +36,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:text=""
-                    android:textColor="@color/colorBlack"
+                    android:textColor="@color/colorWhite"
                     android:textSize="14sp"
                     android:textStyle="bold|normal" />
 
@@ -52,28 +52,28 @@
                     android:id="@+id/pilihA"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:textColor="@color/colorBlack"
+                    android:textColor="@color/colorWhite"
                     android:textStyle="normal" />
 
                 <RadioButton
                     android:id="@+id/pilihB"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:textColor="@color/colorBlack"
+                    android:textColor="@color/colorWhite"
                     android:textStyle="normal" />
 
                 <RadioButton
                     android:id="@+id/pilihC"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:textColor="@color/colorBlack"
+                    android:textColor="@color/colorWhite"
                     android:textStyle="normal" />
 
                 <RadioButton
                     android:id="@+id/pilihD"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:textColor="@color/colorBlack"
+                    android:textColor="@color/colorWhite"
                     android:textStyle="normal" />
 
             </RadioGroup>

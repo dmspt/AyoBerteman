@@ -23,6 +23,7 @@
                 android:layout_height="wrap_content"
                 android:text="BANTUAN"
                 android:textSize="40sp"
+                android:typeface="serif"
                 android:textStyle="bold"
                 android:textColor="@color/colorWhite"
                 android:layout_marginLeft="@dimen/padding16"/>

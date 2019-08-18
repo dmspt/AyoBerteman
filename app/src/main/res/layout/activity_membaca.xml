@@ -11,7 +11,6 @@
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="120dp"
-        android:background="@color/transparanWhite"
         android:orientation="horizontal">
 
         <RelativeLayout
@@ -61,7 +60,7 @@
                     android:layout_height="wrap_content"
                     android:layout_gravity="center"
                     android:text="Bermain di Halaman Sekolah"
-                    android:textColor="@color/colorRed"
+                    android:textColor="@color/colorBlueYoung"
                     android:textSize="20sp"
                     android:textStyle="bold" />
 
@@ -71,7 +70,7 @@
                     android:layout_marginLeft="@dimen/padding8"
                     android:gravity="fill_horizontal"
                     android:text="@string/p1"
-                    android:textColor="@color/colorBlack"
+                    android:textColor="@color/colorWhite"
                     android:textSize="16sp" />
 
                 <TextView
@@ -80,7 +79,7 @@
                     android:layout_marginLeft="@dimen/padding8"
                     android:gravity="fill_horizontal"
                     android:text="@string/p2"
-                    android:textColor="@color/colorBlack"
+                    android:textColor="@color/colorWhite"
                     android:textSize="16sp" />
             </LinearLayout>
         </ScrollView>

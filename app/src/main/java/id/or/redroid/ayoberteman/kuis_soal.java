@@ -29,8 +29,8 @@ public class kuis_soal extends AppCompatActivity {
             " Lengkapi kalimat berikut \n Sebelum berangkat ke sekolah aku…..terlebih dahulu",
             " Ibu Guru berkata bahwa Jojo sedang sakit, sehingga Jojo tidak bisa bersekolah, apa yang harus kita lakukan sebagai teman yang baik ….",
             " Rendi akan bermain di taman bersama Bela, Agar bisa bermain maka harus memiliki tubuh sehat dan kuat maka harus ….\n",
-            " 1. Meletakkan tas di tempatnya\n 2. Mencuci tangan\n 3. Membersihkan meja makan\n 4. Makan\n 5. Mencuci tangan kembali",
-            " 1. Memakai sepatu\n 2. Sarapan\n 3. Bangun tidur\n 4. Memakai seragam\n 5. Mandi\n ",
+            " 1. Meletakkan tas di tempatnya\n 2. Mencuci tangan\n 3. Membersihkan meja makan\n 4. Makan\n 5. Mencuci tangan kembali\n Urutkan kegiatan-kegiatan diatas dengan benar ",
+            " 1. Memakai sepatu\n 2. Sarapan\n 3. Bangun tidur\n 4. Memakai seragam\n 5. Mandi\n Urutkan kegiatan-kegiatan diatas dengan benar ",
 
     };
     String[] pilih_jawaban = new String[]{
